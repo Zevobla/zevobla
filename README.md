@@ -7,7 +7,7 @@
 <a target="_blank" href="https://x.com/zevobla" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="X" /></a>
 <a target="_blank" href="https://dev.to/zevobla" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.instagram.com/zevobla" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefinedzevobla" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
+<a target="_blank" href="https://zevobla.medium.com/" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://www.youtube.com/@zevobla" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://reddit.com/u/zevobla" style="display: inline-block;"><img src="https://img.shields.io/badge/reddit-logo?style=for-the-badge&logo=reddit&logoColor=white&color=black" alt="reddit" /></a>
 <a target="_blank" href="https://tiktok.com/@zevobla" style="display: inline-block;"><img src="https://img.shields.io/badge/tiktok-logo?style=for-the-badge&logo=tiktok&logoColor=white&color=black" alt="tiktok" /></a>
