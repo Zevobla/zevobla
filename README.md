@@ -37,6 +37,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zevobla/zevobla/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/zevobla/zevobla/output/github-snake.svg" />
 </picture>
+
+<div align="center"> <a href="https://open.spotify.com/user/tsdiu3joctle4cjmm11jeook2"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=tsdiu3joctle4cjmm11jeook2&count=10&unique=true" alt="Spotify recently played"  /> </a> </div>
 <!--
 **Zevobla/zevobla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
